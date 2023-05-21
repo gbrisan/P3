@@ -1,9 +1,9 @@
 # P3
 Juego multiusuario 
 
-Este es un juego de dos jugadores que consiste en ir coleccionando los aros dorados que están repartidos en el tablero del juego.
+Este es un juego de dos jugadores que consiste en ir coleccionando los aros dorados que están repartidos en el tablero del juego mientras se esquivan las estrellas que están en continuo movimiento.
 
-Cada jugador intentará coleccionar el máximo número de aros posibles y el juego acabará cuando uno de los dos haya coleccionado más de la mitad de los aros que hay repartidos en el tablero.
+Cada jugador intentará coleccionar el máximo número de aros posibles y el juego acabará cuando uno de los dos haya coleccionado más de la mitad de los aros que hay repartidos en el tablero o cuando alguno de los dos jugadores pierda todas las vidas.
 
 En el juego también intervienes las estrellas, que quitarán una vida a cada jugador con el que colisionen.
 
