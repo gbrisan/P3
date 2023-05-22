@@ -94,7 +94,7 @@ class Game():
         self.estrella = [estrella(i) for i in range(estrellas)] 
         self.nube = [nube(k) for k in range(nubes)]
         self.score = [0,0]
-        self.life = [2,2]
+        self.life = [3,3]
         self.running = True
 
     def get_player(self, numberp):
