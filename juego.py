@@ -173,7 +173,7 @@ class Game():
         self.nube_pos = manager.list([self.nube[j].get_pos() for j in range(nubes)])
         
         self.score = manager.list( [0,0] )
-        self.life = manager.list( [2,2] )
+        self.life = manager.list( [3,3] )
         
         self.estrella = manager.list([estrella(i,[random.randint(-3,3),random.randint(5,7)]) for i in range(estrellas)])
         self.estrella_pos = manager.list([self.estrella[i].get_pos() for i in range(estrellas)])
