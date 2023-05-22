@@ -15,7 +15,7 @@ Y=1
 DELTA = 15
 
 estrellas = 4
-aros = 15
+aros = 8
 nubes = 2
 
 level = []
