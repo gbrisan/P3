@@ -16,7 +16,7 @@ SECOND_PLAYER = 1
 
 FPS = 90
 
-aros = 15
+aros = 8
 nubes = 2
 estrellas = 4
 
